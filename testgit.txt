@@ -1,3 +1,0 @@
-git is version control system 哈哈.
-git is free software.
-git lala~~~12.
